@@ -21,7 +21,7 @@ This Streamlit app uses a Random Forest Classifier to predict whether an input e
 
 ## Files
 
-- `your_app_filename.py`: The main Python script containing the Streamlit app.
+- `app.py`: The main Python script containing the Streamlit app.
 - `mail_data.csv`: CSV file containing email data used for training.
 - `spam_ham_dataset.csv`: Additional CSV file with email data for training.
 - `README.md`: This documentation file.
